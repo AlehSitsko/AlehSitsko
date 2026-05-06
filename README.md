@@ -1,16 +1,38 @@
-## Hi there 👋
+# Aleh Sitsko
 
-<!--
-**AlehSitsko/AlehSitsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building real-world operational tools.
 
-Here are some ideas to get you started:
+Background in EMS dispatch and operations management, where reliability, speed, and structured workflows are critical.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software to solve the exact problems I’ve experienced in production environments.
+
+## Current Focus
+
+- Full-stack development (React, Flask, Python)
+- Workflow automation tools
+- Structured data systems for real-time operations
+- Backend integration (APIs, persistence, system design)
+
+## Projects
+
+### Call Taking Form (React)
+Operational workflow system used in EMS dispatch environment.
+
+- Structured call intake system
+- Workflow-driven UI
+- Real-world usage in dispatcher onboarding
+- Currently adding backend (Flask + database)
+
+🔗 https://github.com/alehsitsko/Call-Taking-Form-React
+
+## Tech Stack
+
+- Frontend: React, JavaScript, Bootstrap
+- Backend: Python, Flask (in progress)
+- Data: SQL (basic), localStorage (prototype stage)
+- Tools: Git, REST APIs, JSON
+
+## Contact
+
+📧 sitskoaleh@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/alehsitsko/
