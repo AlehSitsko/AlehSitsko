@@ -1,38 +1,50 @@
 # Aleh Sitsko
 
-Software Developer focused on building real-world operational tools.
+Software Developer building real-world operational systems.
 
 Background in EMS dispatch and operations management, where reliability, speed, and structured workflows are critical.
 
-I build software to solve the exact problems I’ve experienced in production environments.
+I design and build software to solve real production problems — focusing on workflow systems, structured data, and operational efficiency.
+
+---
 
 ## Current Focus
 
-- Full-stack development (React, Flask, Python)
-- Workflow automation tools
-- Structured data systems for real-time operations
-- Backend integration (APIs, persistence, system design)
+* Full-stack development (React, Flask, Python)
+* Workflow systems for real-time operations
+* Backend development (REST APIs, persistence, authentication)
+* System design for operational tools
+
+---
 
 ## Projects
 
-### Call Taking Form (React)
-Operational workflow system used in EMS dispatch environment.
+### EMS Workflow System (React)
 
-- Structured call intake system
-- Workflow-driven UI
-- Real-world usage in dispatcher onboarding
-- Currently adding backend (Flask + database)
+Operational workflow system designed for EMS dispatch environments.
 
-🔗 https://github.com/alehsitsko/Call-Taking-Form-React
+* Structured call intake system
+* Workflow-driven UI
+* Unit planning with crew assignment and validation logic
+* Employee management with certification tracking
+* Designed based on real EMS operational workflows and constraints
+* Backend in development (Flask API + database, authentication planned)
+
+🔗 https://github.com/AlehSitsko/Call-Taking-Form-React
+
+---
 
 ## Tech Stack
 
-- Frontend: React, JavaScript, Bootstrap
-- Backend: Python, Flask (in progress)
-- Data: SQL (basic), localStorage (prototype stage)
-- Tools: Git, REST APIs, JSON
+* Frontend: React, JavaScript, Bootstrap
+* Backend: Python, Flask (API development in progress)
+* Data: SQL (basic), localStorage (prototype stage)
+* Tools: Git, REST APIs, JSON
+
+---
 
 ## Contact
 
-📧 sitskoaleh@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/alehsitsko/
+📧 [sitskoaleh@gmail.com](mailto:sitskoaleh@gmail.com)
+🔗 https://www.linkedin.com/in/alehsitsko/
+
